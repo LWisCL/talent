@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface talent : NSObject
-
++(void)mylog;
 @end
 
 NS_ASSUME_NONNULL_END
