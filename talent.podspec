@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "talent"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "A short description of talent."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/LWisCL/TKSpecs.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/LWisCL/talent.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
